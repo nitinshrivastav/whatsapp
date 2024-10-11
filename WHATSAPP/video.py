@@ -1,2 +1,2 @@
 def videocall():
-    pass
+    print('judt in timr')
