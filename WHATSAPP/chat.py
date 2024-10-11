@@ -1,2 +1,2 @@
 def chat():
-    pass
+    print("Bye")
